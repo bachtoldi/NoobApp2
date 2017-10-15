@@ -1,0 +1,17 @@
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\EmptyTestAPI.dll.config
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\EmptyTestAPI.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\EmptyTestAPI.pdb
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\Newtonsoft.Json.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Net.Http.Formatting.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Cors.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Http.Cors.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Http.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Http.WebHost.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\Newtonsoft.Json.xml
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Net.Http.Formatting.xml
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Http.xml
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Http.Cors.xml
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\bin\System.Web.Http.WebHost.xml
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\obj\Debug\EmptyTestAPI.csprojResolveAssemblyReference.cache
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\obj\Debug\EmptyTestAPI.dll
+D:\Projekte\EmptyTestAPI\EmptyTestAPI\obj\Debug\EmptyTestAPI.pdb
